@@ -7,7 +7,7 @@ package mod8;
 import java.io.*;
 
 /**
- * @author Jason D. Miller, Miller Intelligence LLC
+ * @author Ason Peikoff, Miller Intelligence LLC
  *
  */
 public class MainTest {

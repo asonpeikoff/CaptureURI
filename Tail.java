@@ -12,7 +12,7 @@ import java.io.IOException;
  * 
  * @author Luigi Viggiano (original author) http://it.newinstance.it/2005/11/19/listening-changes-on-a-text-file-unix-tail-implementation-with-java/
  * @author Alessandro Melandri (modified by)
- * @author Jason Miller (modified by)
+ * @author Ason Peikoff (modified by)
  * */
 public class Tail {
 
